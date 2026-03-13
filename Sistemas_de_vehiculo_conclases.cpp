@@ -58,14 +58,19 @@ public:
     }
 };
 
-int main ()
+int main (){
 
-{
+int opcion;
 
-Vehiculo encendido;
-encendido.setestado("----0----");
-cout<<encendido.getestado()<<endl;
-encendido.encendiendo();
+    do
+    {
+        /* code */
+    } while (condition);
+    
+
+
+
+
 
     return 0;
 }
